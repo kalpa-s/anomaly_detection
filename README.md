@@ -2,7 +2,7 @@
  A machine Learning model to detect anomalies in a dataset consisting real time current readings of a 3-phase AC motor (3.2 hp)
 
 ## Approach taken to solve this problem:
-* The datasets are in 6 files. So combine it into a single source.
+* The dataset having current readings are in 6 files. So combine it into a single source.
 * <b>Data Analysis</b> and <b>Data Visualizations</b> to understand the pattern and distribution of data
 * Necessary data pre-processing steps to make the data ready for modeling
 * As there are no target labels, this is an <b>Unsupervised machine learning</b> problem.
