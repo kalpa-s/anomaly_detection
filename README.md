@@ -1,5 +1,8 @@
-# anomaly_detection
- A machine Learning model to detect anomalies in a dataset consisting real time current readings of a 3-phase AC motor (3.2 hp)
+# Motor Current Signature Analysis to detect Anomalies
+ A machine Learning model to detect anomalies in a dataset consisting real time current readings of a 3-phase AC motor (3.2 hp).
+ 
+## Importance of  Motor Current Signature Analysis
+Motor current signature analysis is a technique that helps in determining the induction motor’s operating condition without disturbing production. In other words, it senses an electrical signal that has current components and identifies the faults in the initial stage. Therefore, it plays a pivotal role in preventing damage and diagnosing motor failure.
 
 ## Approach taken to solve this problem:
 * The dataset having current readings are in 6 files. So combine it into a single source.
