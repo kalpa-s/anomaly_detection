@@ -25,3 +25,8 @@ Motor current signature analysis is a technique that helps in determining the in
 8. Test model by giving sample test data 
 9. Model Evaluation
 10. Save the model to a pickle file
+
+## Steps to Test the model by giving input current values
+1. Run the test.py file in your local machine
+2. Give an input current reading
+3. The model predicts and displays the output whether it is an anomaly or not
